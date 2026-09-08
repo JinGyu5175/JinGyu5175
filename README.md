@@ -5,7 +5,7 @@
 
 #### Repositories
 
-- [3d-clothed-human-reconstruction](https://github.com/JinGyu5175/3d-clothed-human-reconstruction) — 다시점 이미지로 옷 입은 사람의 3D 형상과 질감 복원
+- [3d-clothed-human-reconstruction](https://github.com/JinGyu5175/3d-clothed-human-reconstruction) — 다시점 이미지로 옷 입은 사람의 3D 복원
 - [ssabway](https://github.com/JinGyu5175/ssabway) — Vision AI 기반 외국인 지하철 이용 안내 서비스
 
 #### Publications
