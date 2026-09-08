@@ -10,9 +10,9 @@
 
 #### Publications
 
-- 3D Clothed Human Reconstruction from Sparse Multi-View Images<br>IEEE/CVF CVPR 2024 Workshops (3DMV), 공동 1저자
-- 캘리브레이션 된 2시점 영상으로부터의 3차원 휴먼 복원<br>한국방송미디어공학회 추계학술대회, 2023
-- 다시점 영상으로부터의 3차원 휴먼 복원 방법<br>특허 출원 (KR, US)
+- 3D Clothed Human Reconstruction from Sparse Multi-View Images IEEE/CVF CVPR 2024 Workshops (3DMV), 공동 1저자
+- 캘리브레이션 된 2시점 영상으로부터의 3차원 휴먼 복원 한국방송미디어공학회 추계학술대회, 2023
+- 다시점 영상으로부터의 3차원 휴먼 복원 방법 특허 출원 (KR, US)
 
 #### Projects
 
