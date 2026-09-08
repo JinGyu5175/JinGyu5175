@@ -3,6 +3,8 @@
 컴퓨터비전 석사. 다시점 영상 기반 3D 인간 복원을 연구했습니다.
 지금은 SSAFY 15기에서 Java와 웹 개발을 배우고 있습니다.
 
+![다시점 3D 인간 복원](assets/banner.jpg)
+
 #### Repositories
 
 - [3d-clothed-human-reconstruction](https://github.com/JinGyu5175/3d-clothed-human-reconstruction) — 다시점 이미지로 옷 입은 사람의 3D 복원
