@@ -5,8 +5,8 @@
 
 #### Repositories
 
-- [3d-clothed-human-reconstruction](https://github.com/JinGyu5175/3d-clothed-human-reconstruction) — 석사 연구 정리
-- [ssabway](https://github.com/JinGyu5175/ssabway) — 표지판 인식으로 실내 위치를 잡는 역내 안내 서비스
+- [3d-clothed-human-reconstruction](https://github.com/JinGyu5175/3d-clothed-human-reconstruction) — 다시점 이미지로 옷 입은 사람의 3D 형상과 질감 복원
+- [ssabway](https://github.com/JinGyu5175/ssabway) — Vision AI 기반 외국인 지하철 이용 안내 서비스
 
 #### Publications
 
